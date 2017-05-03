@@ -15,4 +15,4 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/android_x86_64.mk
+    $(LOCAL_DIR)/full_thinkpad_x1yoga.mk

@@ -18,7 +18,8 @@
 $(call inherit-product,device/generic/common/x86_64.mk)
 
 # Overrides
-PRODUCT_NAME := cm_android_x86_64
-PRODUCT_BRAND := Android-x86
-PRODUCT_DEVICE := android_x86_64
-PRODUCT_MODEL := Generic Android-x86_64
+PRODUCT_NAME := lineage_thinkpad_x1yoga
+PRODUCT_BRAND := lenovo
+PRODUCT_DEVICE := thinkpad_x1yoga
+PRODUCT_MODEL := ThinkPad X1 Yoga
+PRODUCT_MANUFACTURER := Lenovo
